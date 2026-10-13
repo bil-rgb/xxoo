@@ -1,7 +1,7 @@
 # Cogils BAILEYS
 
 <p align="center">
-  <img src="https://files.catbox.moe/v9rme1.jpg" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/uyns9r.jpg" alt="Thumbnail" />
 </p>
 
 A WebSocket-based library for interacting with WhatsApp Web — a fork of
